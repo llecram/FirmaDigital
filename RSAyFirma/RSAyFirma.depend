@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1541212018 source:d:\programas hechos por mi\rsayfirma\blackops.cpp
+	"blackops.h"
+
+1541212018 d:\programas hechos por mi\rsayfirma\blackops.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<NTL/ZZ.h>
+
+1541381322 source:d:\programas hechos por mi\rsayfirma\main.cpp
+	"rsa.h"
+
+1541381192 source:d:\programas hechos por mi\rsayfirma\src\rsa.cpp
+	"rsa.h"
+
+1541212018 d:\programas hechos por mi\rsayfirma\include\rsa.h
+	"..\blackops.h"
+
